@@ -6,5 +6,5 @@ spring:
       maximumPoolSize: 2
       minimumIdle: 1
 #    password: zxcv1234
-    url: jdbc:mysql://localahost/test?useUnicode=yes&characterEncoding=utf8&allowMultiQueries=true&useSSL=false
+    url: jdbc:mysql://localhost/test?useUnicode=yes&characterEncoding=utf8&allowMultiQueries=true&useSSL=false
     username: root
