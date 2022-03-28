@@ -1,0 +1,10 @@
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    hikari:
+      maximumPoolSize: 2
+      minimumIdle: 1
+#    password: zxcv1234
+    url: jdbc:mysql:loclahost/oem_oauth?useUnicode=yes&characterEncoding=utf8&allowMultiQueries=true&useSSL=false
+    username: root
