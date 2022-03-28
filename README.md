@@ -1,1 +1,1 @@
-# springboot-jwt is combine spring-boot and jwt
+# springboot-jwt combine spring-boot and jwt
