@@ -63,6 +63,7 @@
             <artifactId>mysql-connector-java</artifactId>
         </dependency>
 
+<<<<<<< HEAD
         <dependency>
             <groupId>io.jsonwebtoken</groupId>
             <artifactId>jjwt</artifactId>
@@ -70,6 +71,8 @@
         </dependency>
 
 
+=======
+>>>>>>> 6d7c11102ee496b88226c95d638374190fc717a8
     </dependencies>
 
     <build>
